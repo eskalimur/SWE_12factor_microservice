@@ -1,0 +1,3 @@
+- clone repository
+- have Docker Desktop installed
+- start Main

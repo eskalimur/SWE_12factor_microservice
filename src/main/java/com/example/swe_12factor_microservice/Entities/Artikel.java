@@ -9,6 +9,12 @@ public class Artikel {
     private Long id;
     private String name;
     private Float count;
+    private Kategorie kategorie;
+
+    public Artikel() {
+    }
+    public Artikel(String name, Long category, Float count) {
+    }
 
     public void setId(Long id) {
         this.id = id;
